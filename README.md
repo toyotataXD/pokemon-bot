@@ -1,4 +1,4 @@
-#Discord Pokemon Botu
+# Discord Pokemon Botu
 
 * **Rastgele Pokemon Üretimi(`!go`):**
 * **Pokemon Bilgileri(`!info`):**
